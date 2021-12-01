@@ -1,7 +1,9 @@
-# WebPro Workshop Class Assignment
+# WebPro Workshop mini-project
 
-Changed the alignment of the loading spinner to the center of the page And Added responsiveness for xs, md, lg, xl, xxl
+Made responsive clone of youtube just like in the wotkshop
 
-### Submitted on 28 November 2021 , Last Commit on 28 November 2021
+[![Screenshot-336.png](https://i.postimg.cc/j5DrkW4G/Screenshot-336.png)](https://postimg.cc/LYF7J87T)
+
+### Submitted on 1 December 2021 , Last Commit on 1 December 2021
 
 #### By Sarthak Sachdeva

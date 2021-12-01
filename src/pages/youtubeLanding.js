@@ -9,12 +9,9 @@ const Youtube = () => {
   const [searchText, setSearchText] = useState("");
   useEffect(() => {
     async function getVideos() {
-      const response = await fetch(
-        `https://salty-savannah-61881.herokuapp.com/videos`,
-        {
-          method: "GET",
-        }
-      );
+      const response = await fetch(`${process.env.REACT_APP_URL}/videos`, {
+        method: "GET",
+      });
       const data = await response.json();
       setVideos(data);
     }
