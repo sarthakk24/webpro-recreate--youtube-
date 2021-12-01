@@ -1,0 +1,16 @@
+.appBar {
+  top: 0;
+  flex: auto;
+}
+
+.backgroundNav {
+  background-color: #202121;
+}
+
+.inputGroup {
+  width: 100%;
+}
+
+.searchInput {
+  width: 500px;
+}
